@@ -11,3 +11,6 @@ against such comics.</p>
 incarnation dates from 1961, the year that the company launched The Fantastic Four and other superhero titles created by Stan Lee.Marvel counts
  among its characters such well-known superheroes such as Iron Man, Captain America, Hulk, Thor, Spider-Man, Wolverine and Ant-Man, such teams as
   the Avengers, the Guardians of the Galaxy, the Fantastic Four, the X-Men and the Inhumans</p>
+  body {
+    background: darkred;
+  }
